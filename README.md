@@ -5,7 +5,7 @@ Unity2D project - Prototype of a sidescroller physics based skiing game.
 
 To play: 
 
-1.  Download the html and unity files.
+1.  Download the html and unity files inside the builds folder.
 2.  Put them in to same directory.
 3.  Open the html file with browser.
 4.  Play!
